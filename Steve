@@ -1,0 +1,16 @@
+<html>
+ <head>
+ </head>
+ <body>
+  <h1> Steve Jobs </h1>
+  <h3> Bio </h3>
+  <p> Steven Paul Jobs (San Francisco, California, 24 de febrero de 1955-Palo Alto, California, 5 de octubre de 2011), más conocido como Steve Jobs, fue un empresario y magnate de los negocios del sector informático y de la industria del entretenimiento estadounidense. Fue cofundador y presidente ejecutivo de Apple Inc y máximo accionista individual de The Walt Disney Company.</p>
+  <ul> <li> Mac</li>
+  	   <li> Iphone</li>
+  	<ul>
+  		<li>5, 5s</li>
+  		<li>6, 6s</li>
+    </ul>
+  </ul>
+ </body>
+</html>
